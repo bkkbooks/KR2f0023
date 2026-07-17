@@ -29,12 +29,12 @@ assets:
   - {seq: 9, filename: KR2f0023_009-WYG.yaml, hash: 'sha256:1a5207019c38b0d789008df02ad394068383128c7ef7bb5f0781a58d33182fb9'}
   - {seq: 10, filename: KR2f0023_010-WYG.yaml, hash: 'sha256:4f9b46d520091851c3a39c1c97f619a318be3b7be924005bdc034add413a1259'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2f0023_000-WYG.markers.yaml, hash: 'sha256:1e7911b92e2c4ba357fd229dc8f9fe8c40ea8ba879a2da57aa3fe94434e28655'}
+  - {seq: 0, role: markers, filename: assets/KR2f0023_000-WYG.markers.yaml, hash: 'sha256:ed92ada5615f7537fa3e3b10e9a1a7ccc5b90a86de8abaca356c658326e27ba3'}
   - {seq: 1, role: markers, filename: assets/KR2f0023_001-WYG.markers.yaml, hash: 'sha256:0d244694c4da2ce3d9f32cefe5d09f9a6af864b4b52ac2c655127bd11cc58da6'}
   - {seq: 2, role: markers, filename: assets/KR2f0023_002-WYG.markers.yaml, hash: 'sha256:f1bbe349b3bc8b60661e60491dd7ef9611eb5b9b4ba25e45aa7cd3da48399293'}
   - {seq: 3, role: markers, filename: assets/KR2f0023_003-WYG.markers.yaml, hash: 'sha256:6e018f56380b84d388f00a9385c4e398c334b6f17e8c38dae4b223020717393c'}
   - {seq: 4, role: markers, filename: assets/KR2f0023_004-WYG.markers.yaml, hash: 'sha256:0886ccaa37c928a873e949694371897a33c28f56d69aba12881bf7e56db5e5e7'}
-  - {seq: 5, role: markers, filename: assets/KR2f0023_005-WYG.markers.yaml, hash: 'sha256:51fb2107c48f0034a02b68ada22cf5aa0f03ebd08cc1eb31e278992e663bdd37'}
+  - {seq: 5, role: markers, filename: assets/KR2f0023_005-WYG.markers.yaml, hash: 'sha256:6fced78010157ebb56c2b1d65856401ba51f40807e0fb57f40b18e41925b868f'}
   - {seq: 6, role: markers, filename: assets/KR2f0023_006-WYG.markers.yaml, hash: 'sha256:7fc105391089610e04052f0dea4b6449c7df89d9130f68034dacc04563425cd7'}
   - {seq: 7, role: markers, filename: assets/KR2f0023_007-WYG.markers.yaml, hash: 'sha256:a84fdf178b07b7fc569ab3ffd1e060542ea010d4080998d6a2cec7042a67141a'}
   - {seq: 8, role: markers, filename: assets/KR2f0023_008-WYG.markers.yaml, hash: 'sha256:6694485ebe0cc9d365d82b7105b4674848f175b157884d60c87246162342a71c'}
@@ -151,4 +151,4 @@ table_of_contents:
   label: 卷十
   type: section
   level: 1
-hash: sha256:cc8a0de86f52e6d0203a415ca95bc9b1f9df7a93d2c0aea975791f77ffcc0069
+hash: sha256:5b0a8965406bdb6f5466a42088cd7b910fa7815bbfbf5db86c6f57a95fa4879c
